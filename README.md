@@ -2,7 +2,9 @@
 
 Este projeto foi desenvolvido como parte do **PTA CITi**, com o objetivo de analisar dados de vendas de uma empresa fictícia, a **CerreiraFosta Ltda.** O projeto envolveu duas fases principais: o **processo ETL** (Extração, Transformação e Carga de dados) e a **Análise Exploratória de Dados (EDA)**, com foco na otimização de vendas e melhoria do desempenho comercial.
 
-!(URL_da_Imagem)
+<p align="center">
+  <img src="https://github.com/waltercrastobr/P.S-Citi/blob/main/img_citi.png" alt="imagem">
+</p>
 
 ## Descrição do Projeto
 
